@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\SBK_image_classify\SBK_image_classify\bin\Debug\SBK_image_classify.exe.config
+C:\Users\user\source\repos\SBK_image_classify\SBK_image_classify\bin\Debug\SBK_image_classify.exe
+C:\Users\user\source\repos\SBK_image_classify\SBK_image_classify\bin\Debug\SBK_image_classify.pdb
+C:\Users\user\source\repos\SBK_image_classify\SBK_image_classify\obj\Debug\SBK_image_classify.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SBK_image_classify\SBK_image_classify\obj\Debug\SBK_image_classify.Form1.resources
+C:\Users\user\source\repos\SBK_image_classify\SBK_image_classify\obj\Debug\SBK_image_classify.Properties.Resources.resources
+C:\Users\user\source\repos\SBK_image_classify\SBK_image_classify\obj\Debug\SBK_image_classify.csproj.GenerateResource.cache
+C:\Users\user\source\repos\SBK_image_classify\SBK_image_classify\obj\Debug\SBK_image_classify.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SBK_image_classify\SBK_image_classify\obj\Debug\SBK_image_classify.exe
+C:\Users\user\source\repos\SBK_image_classify\SBK_image_classify\obj\Debug\SBK_image_classify.pdb

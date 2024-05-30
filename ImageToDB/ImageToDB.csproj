@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{11EA1F38-800D-4A06-BAD1-183F38F9A8D4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ImageToDB</RootNamespace>
-    <AssemblyName>ImageToDB</AssemblyName>
+    <RootNamespace>TEST2</RootNamespace>
+    <AssemblyName>TEST2</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -135,7 +135,6 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="packages.config" />
     <None Include="Properties\app.manifest" />

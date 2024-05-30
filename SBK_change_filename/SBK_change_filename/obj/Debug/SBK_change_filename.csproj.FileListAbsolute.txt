@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\SBK_change_filename\SBK_change_filename\bin\Debug\SBK_change_filename.exe.config
+C:\Users\user\source\repos\SBK_change_filename\SBK_change_filename\bin\Debug\SBK_change_filename.exe
+C:\Users\user\source\repos\SBK_change_filename\SBK_change_filename\bin\Debug\SBK_change_filename.pdb
+C:\Users\user\source\repos\SBK_change_filename\SBK_change_filename\obj\Debug\SBK_change_filename.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SBK_change_filename\SBK_change_filename\obj\Debug\SBK_change_filename.Form1.resources
+C:\Users\user\source\repos\SBK_change_filename\SBK_change_filename\obj\Debug\SBK_change_filename.Properties.Resources.resources
+C:\Users\user\source\repos\SBK_change_filename\SBK_change_filename\obj\Debug\SBK_change_filename.csproj.GenerateResource.cache
+C:\Users\user\source\repos\SBK_change_filename\SBK_change_filename\obj\Debug\SBK_change_filename.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SBK_change_filename\SBK_change_filename\obj\Debug\SBK_change_filename.exe
+C:\Users\user\source\repos\SBK_change_filename\SBK_change_filename\obj\Debug\SBK_change_filename.pdb

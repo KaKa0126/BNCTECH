@@ -13,7 +13,7 @@ using AForge.Video.DirectShow;
 using Npgsql;
 using NpgsqlTypes;
 
-namespace ImageToDB
+namespace TEST2
 {
     public partial class Form1 : Form
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ImageToDB
+namespace TEST2
 {
     internal static class Program
     {

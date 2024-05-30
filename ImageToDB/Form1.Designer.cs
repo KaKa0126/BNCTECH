@@ -1,4 +1,4 @@
-﻿namespace ImageToDB
+﻿namespace TEST2
 {
     partial class Form1
     {
